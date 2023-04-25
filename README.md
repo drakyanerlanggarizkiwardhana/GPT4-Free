@@ -1,6 +1,5 @@
 # GPT4free - use ChatGPT, for free!!
 
-<img width="1383" alt="image" src="https://user-images.githubusercontent.com/98614666/233799515-1a7cb6a3-b17f-42c4-956d-8d2a0664466f.png">
 
 Have you ever come across some amazing projects that you couldn't use **just because you didn't have an OpenAI API key?** 
 
