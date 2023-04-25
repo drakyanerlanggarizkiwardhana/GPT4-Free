@@ -92,7 +92,7 @@ docker run -p 8501:8501 gpt4free:latest
 > currently implementing new features and trying to scale it, please be patient it may be unstable     
 > https://chat.chatbot.sex/chat
 > This site was developed by me and includes **gpt-4/3.5**, **internet access** and **gpt-jailbreak's** like DAN   
-> run locally here: https://github.com/xtekky/chatgpt-clone
+> run locally here: https://github.com/drakyanerlanggarizkiwardhana/chatgpt-clone
 
 ## Legal Notice <a name="legal-notice"></a>
 
