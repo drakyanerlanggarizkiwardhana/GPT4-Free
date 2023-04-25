@@ -109,7 +109,7 @@ Please note the following:
 ## Copyright: 
 This program is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt)     
 
-Most code, with the exception of `quora/api.py` (by [ading2210](https://github.com/ading2210)), has been written by me, [xtekky](https://github.com/xtekky).
+Most code, with the exception of `quora/api.py` (by [ading2210](https://github.com/ading2210)), has been written by me, [drakyanerlanggarizkiwardhana](https://github.com/drakyanerlanggarizkiwardhana).
 
 ### Copyright Notice: <a name="copyright"></a>
 ```
